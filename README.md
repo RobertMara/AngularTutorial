@@ -44,3 +44,5 @@ Went through Angular "homes-app" tutorial via YouTube (https://youtu.be/xAT0lHYh
 - Run json-server to serve up the housing data.
   
   `json-server --watch db.json`
+
+- Navigate web browser to http://localhost:4200/
