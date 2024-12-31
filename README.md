@@ -37,6 +37,10 @@ Went through Angular "homes-app" tutorial via YouTube (https://youtu.be/xAT0lHYh
 
   `npm install` 
 
+- Install json-server to serve up data.
+
+  `npm install -g json-server`
+
 - Run the application
 
   `ng serve`
@@ -46,3 +50,6 @@ Went through Angular "homes-app" tutorial via YouTube (https://youtu.be/xAT0lHYh
   `json-server --watch db.json`
 
 - Navigate web browser to http://localhost:4200/
+
+FOR SOME REASON, FILTERING IS NO LONGER WORKING.
+(Tried in original homes-app directory as well. Shrug.)
