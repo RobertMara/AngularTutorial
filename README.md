@@ -51,5 +51,5 @@ Went through Angular "homes-app" tutorial via YouTube (https://youtu.be/xAT0lHYh
 
 - Navigate web browser to http://localhost:4200/
 
-FOR SOME REASON, FILTERING IS NO LONGER WORKING.
+FOR SOME REASON, FILTERING IS FLAKEY. Doesn't always seem to work.
 (Tried in original homes-app directory as well. Shrug.)
